@@ -5523,6 +5523,14 @@ const sidebars = {
          },
          {
           type: 'category',
+          label: 'test',
+          items: [
+            'zh-CN/Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32S3/CN_XIAO_ESP32S3_WiFi_Usage',
+            'zh-CN/Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32S3/test',
+          ],
+        },
+         {
+          type: 'category',
           label: '编程语言',
           items: [
             'zh-CN/Sensor/SeeedStudio_XIAO/SeeedStudio_XIAO_ESP32S3/CN_XIAO-ESP32S3-Zephyr-RTOS',
